@@ -1,0 +1,3 @@
+if (a == "tallgrant"){"Hello Fearless Leader!".}
+else if (a == "elvensorrow"){"Show me elvensorrow salad!".}
+else {"Generic greeting."}

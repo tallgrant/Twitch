@@ -1,3 +1,1 @@
-if (a == "tallgrant") "Hello Fearless Leader!" ;
-else if (a == "elvensorrow") "Show me elvensorrow salad!" ;
-else {"Generic greeting."}
+if (a == "Torqueish") "Hello Fearless Leader"; else "You are hearing me talk")

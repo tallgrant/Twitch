@@ -1,4 +1,4 @@
 {"greetings":[    
-      {"name":"tallgrant", "Hello Fearless Leader"},    
-      {"name":"torqueish", "My grandfather’s deck has no pathetic cards, Torqueish. But it does contain… the unstoppable Exodia!"},   
+      {"name":"tallgrant", greeting:"Hello Fearless Leader"},    
+      {"name":"torqueish", greeting:"My grandfather’s deck has no pathetic cards, Torqueish. But it does contain… the unstoppable Exodia!"},   
   ]}  

@@ -1,0 +1,6 @@
+if (a == "tallgrant") {"Hello Fearless Leader"}
+else if (a == "Torqueish") {"My grandfather’s deck has no pathetic cards, Torqueish. But it does contain… the unstoppable Exodia!"} 
+else if (a == "Sinamil") {"Hello Fearless Leader"} 
+else if (a == "elvensorrow") {"Show me elvensorrow salad!"} 
+else if (a == "beautyindiscovery") {"There is something wonderful about a man with well groomed facial hair."} 
+else {"Hello there!"}

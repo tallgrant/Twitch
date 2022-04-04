@@ -3,9 +3,9 @@ Karate Chop
 3 	Double Slap
 4 	Comet Punch
 5 	Mega Punch
-6 	Pay Day 	Normal
-7 	Fire Punch 	Fire
-8 	Ice Punch 	Ice
+6 	Pay
+7 	Fire Punch
+8 	Ice Punch
 9 	Thunder Punch
 10 	Scratch
 11 	Vise Grip
@@ -82,84 +82,85 @@ Karate Chop
 82 	Dragon Rage
 83 	Fire Spin
 84 	Thunder Shock
-85 	Thunderbolt 	Electric 	Special 	15 	90* 	100% 	I
-86 	Thunder Wave 	Electric 	Status 	20 	— 	90%* 	I
-87 	Thunder 	Electric 	Special 	10 	110* 	70% 	I
-88 	Rock Throw 	Rock 	Physical 	15 	50 	90%* 	I
-89 	Earthquake 	Ground 	Physical 	10 	100 	100% 	I
-90 	Fissure 	Ground 	Physical 	5 	— 	30% 	I
-91 	Dig 	Ground 	Physical 	10 	80* 	100% 	I
-92 	Toxic 	Poison 	Status 	10 	— 	90%* 	I
-93 	Confusion 	Psychic 	Special 	25 	50 	100% 	I
-94 	Psychic 	Psychic 	Special 	10 	90 	100% 	I
-95 	Hypnosis 	Psychic 	Status 	20 	— 	60%* 	I
-96 	Meditate 	Psychic 	Status 	40 	— 	— 	I
-97 	Agility 	Psychic 	Status 	30 	— 	— 	I
-98 	Quick Attack 	Normal 	Physical 	30 	40 	100% 	I
-99 	Rage 	Normal 	Physical 	20 	20 	100% 	I
-100 	Teleport 	Psychic 	Status 	20 	— 	— 	I
-101 	Night Shade 	Ghost 	Special 	15 	— 	100% 	I
-102 	Mimic 	Normal 	Status 	10 	— 	—* 	I
-103 	Screech 	Normal 	Status 	40 	— 	85% 	I
-104 	Double Team 	Normal 	Status 	15 	— 	— 	I
-105 	Recover 	Normal 	Status 	10* 	— 	— 	I
-106 	Harden 	Normal 	Status 	30 	— 	— 	I
-107 	Minimize 	Normal 	Status 	10* 	— 	— 	I
-108 	Smokescreen 	Normal 	Status 	20 	— 	100% 	I
-109 	Confuse Ray 	Ghost 	Status 	10 	— 	100% 	I
-110 	Withdraw 	Water 	Status 	40 	— 	— 	I
-111 	Defense Curl 	Normal 	Status 	40 	— 	— 	I
-112 	Barrier 	Psychic 	Status 	20* 	— 	— 	I
-113 	Light Screen 	Psychic 	Status 	30 	— 	— 	I
-114 	Haze 	Ice 	Status 	30 	— 	— 	I
-115 	Reflect 	Psychic 	Status 	20 	— 	— 	I
-116 	Focus Energy 	Normal 	Status 	30 	— 	— 	I
-117 	Bide 	Normal 	Physical 	10 	— 	—* 	I
-118 	Metronome 	Normal 	Status 	10 	— 	— 	I
-119 	Mirror Move 	Flying 	Status 	20 	— 	— 	I
-120 	Self-Destruct 	Normal 	Physical 	5 	200* 	100% 	I
-121 	Egg Bomb 	Normal 	Physical 	10 	100 	75% 	I
-122 	Lick 	Ghost 	Physical 	30 	30* 	100% 	I
-123 	Smog 	Poison 	Special 	20 	30* 	70% 	I
-124 	Sludge 	Poison 	Special 	20 	65 	100% 	I
-125 	Bone Club 	Ground 	Physical 	20 	65 	85% 	I
-126 	Fire Blast 	Fire 	Special 	5 	110* 	85% 	I
-127 	Waterfall 	Water 	Physical 	15 	80 	100% 	I
-128 	Clamp 	Water 	Physical 	15* 	35 	85%* 	I
-129 	Swift 	Normal 	Special 	20 	60 	— 	I
-130 	Skull Bash 	Normal 	Physical 	10* 	130* 	100% 	I
-131 	Spike Cannon 	Normal 	Physical 	15 	20 	100% 	I
-132 	Constrict 	Normal 	Physical 	35 	10 	100% 	I
-133 	Amnesia 	Psychic 	Status 	20 	— 	— 	I
-134 	Kinesis 	Psychic 	Status 	15 	— 	80% 	I
-135 	Soft-Boiled 	Normal 	Status 	10 	— 	— 	I
-136 	High Jump Kick 	Fighting 	Physical 	10* 	130* 	90% 	I
-137 	Glare 	Normal 	Status 	30 	— 	100%* 	I
-138 	Dream Eater 	Psychic 	Special 	15 	100 	100% 	I
-139 	Poison Gas 	Poison 	Status 	40 	— 	90%* 	I
-140 	Barrage 	Normal 	Physical 	20 	15 	85% 	I
-141 	Leech Life 	Bug 	Physical 	10* 	80* 	100% 	I
-142 	Lovely Kiss 	Normal 	Status 	10 	— 	75% 	I
-143 	Sky Attack 	Flying 	Physical 	5 	140* 	90% 	I
-144 	Transform 	Normal 	Status 	10 	— 	— 	I
-145 	Bubble 	Water 	Special 	30 	40* 	100% 	I
-146 	Dizzy Punch 	Normal 	Physical 	10 	70 	100% 	I
-147 	Spore 	Grass 	Status 	15 	— 	100% 	I
-148 	Flash 	Normal 	Status 	20 	— 	100%* 	I
-149 	Psywave 	Psychic 	Special 	15 	— 	100%* 	I
-150 	Splash 	Normal 	Status 	40 	— 	— 	I
-151 	Acid Armor 	Poison 	Status 	20* 	— 	— 	I
-152 	Crabhammer 	Water 	Physical 	10 	100* 	90%* 	I
-153 	Explosion 	Normal 	Physical 	5 	250* 	100% 	I
-154 	Fury Swipes 	Normal 	Physical 	15 	18 	80% 	I
-155 	Bonemerang 	Ground 	Physical 	10 	50 	90% 	I
-156 	Rest 	Psychic 	Status 	10 	— 	— 	I
-157 	Rock Slide 	Rock 	Physical 	10 	75 	90% 	I
-158 	Hyper Fang 	Normal 	Physical 	15 	80 	90% 	I
-159 	Sharpen 	Normal 	Status 	30 	— 	— 	I
-160 	Conversion 	Normal 	Status 	30 	— 	— 	I
-161 	Tri Attack 	Normal 	Special 	10 	80 	100% 	I
-162 	Super Fang 	Normal 	Physical 	10 	— 	90% 	I
-163 	Slash
-164 	Substitute
+85 	Thunderbolt
+86 	Thunder Wave
+87 	Thunder
+88 	Rock Throw
+89 	Earthquake
+90 	Fissure
+91 	Dig
+92 	Toxic
+93 	Confusion
+94 	Psychic
+95 	Hypnosis
+96 	Meditate
+97 	Agility
+98 	Quick Attack
+99 	Rage
+100 	Teleport
+101 	Night Shade
+102 	Mimic
+103 	Screech
+104 	Double Team
+105 	Recover
+106 	Harden
+107 	Minimize
+108 	Smokescreen
+109 	Confuse Ray
+110 	Withdraw
+111 	Defense Curl
+112 	Barrier
+113 	Light
+114 	Haze
+115 	Reflect
+116 	Focus Energy
+"Bide
+"Metronome
+"Mirror
+"Self-Destruct
+"Egg Bomb
+"Lick
+"Smog
+"Sludge
+"Bone Club
+"Fire Blast
+"Waterfall
+"Clamp
+"Swift
+"Skull Bash
+"Spike Cannon
+"Constrict
+"Amnesia
+"Kinesis
+"Soft-Boiled
+"High Jump Kick
+"Glare
+"Dream Eater
+"Poison Gas
+"Barrage
+"Leech Life
+"Lovely Kiss
+"Sky Attack
+"Transform
+"Bubble
+"Dizzy Punch
+"Spore
+"Flash
+"Psywave
+"Splash
+"Acid Armor
+"Crabhammer
+"Explosion
+"Fury Swipes
+"Bonemerang
+"Rest
+"Rock Slide
+"Hyper Fang
+"Sharpen
+"Conversion
+"Tri Attack
+"Super Fang
+"Slash
+"Substitute
+]
 165 	Struggle
